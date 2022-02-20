@@ -1,0 +1,13 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2019-12-31T11:22:49.734Z,-33.6142,-178.4753,10,5,mb,,114,4.732,0.52,us,us70006suy,2020-01-25T12:26:08.040Z,"245km S of L'Esperance Rock, New Zealand",earthquake,8.1,1.9,0.108,27,reviewed,us,us
+2019-12-30T17:49:59.468Z,35.6305,74.6387,24.32,5,mww,,43,2.275,0.66,us,us70006sjv,2020-01-29T21:54:08.040Z,"37km NNW of Idgah, Pakistan",earthquake,6.7,4.4,0.086,13,reviewed,us,us
+2019-12-30T17:18:59.863Z,35.6024,74.6175,30.6,5.5,mww,,41,2.242,0.74,us,us70006sj8,2020-02-20T16:15:46.436Z,"35km NW of Idgah, Pakistan",earthquake,5.7,4.5,0.093,11,reviewed,us,us
+2019-12-30T13:49:45.227Z,27.3836,56.5402,10,5.4,mb,,63,2.447,0.45,us,us70006sg8,2020-01-15T14:54:57.501Z,"33km NE of Bandar 'Abbas, Iran",earthquake,6,1.8,0.041,201,reviewed,us,us
+2019-12-30T04:11:09.987Z,27.8431,142.8263,15.9,5.2,mww,,26,0.937,0.72,us,us70006sbu,2020-01-16T04:05:45.975Z,"103km NE of Chichi-shima, Japan",earthquake,7.5,3.5,0.075,17,reviewed,us,us
+2019-12-29T18:24:41.656Z,-52.8602,11.3306,10,5.2,mww,,89,19.889,1.06,us,us70006s89,2020-01-26T15:57:59.040Z,"Southwest of Africa",earthquake,9.1,1.8,0.093,11,reviewed,us,us
+2019-12-29T13:59:02.410Z,-5.5011,151.7733,35,5.1,mb,,78,5.579,0.65,us,us70006s6z,2020-01-14T19:55:26.040Z,"138km SSW of Kokopo, Papua New Guinea",earthquake,9,1.9,0.046,150,reviewed,us,us
+2019-12-29T09:12:1/Users/tylertaormina/Documents/CIS 210/equakes_world_50f_2019.csv5.010Z,4.6912,125.3986,17.49,5.2,mww,,73,2.369,0.71,us,us70006s54,2020-01-18T11:11:58.040Z,"79km S of Sarangani, Philippines",earthquake,6.5,4.5,0.08,15,reviewed,us,us
+2019-12-29T01:06:00.130Z,17.8846,-66.864,6,5,ml,18,222,0.1992,0.24,pr,pr2019363002,2020-02-05T00:11:38.040Z,"9km S of Indios, Puerto Rico",earthquake,1.36,0.96,0,0,reviewed,pr,pr
+2019-12-28T22:49:15.959Z,-30.3893,-177.5618,10,5.2,mb,,108,1.184,1.02,us,us70006s0k,2020-01-16T04:51:03.834Z,"128km SSE of Raoul Island, New Zealand",earthquake,9.3,1.8,0.081,50,reviewed,us,us
+2019-12-28T18:25:44.427Z,1.4714,128.5553,55.42,5,mb,,45,1.376,0.89,us,us70006ry8,2020-01-29T21:30:22.040Z,"67km ESE of Tobelo, Indonesia",earthquake,3.6,6.8,0.053,117,reviewed,us,us
+2019-12-28T15:36:35.773Z,-44.6079,37.0941,10,5.7,mww,,45,18.544,0.91,us,us70006rx5,2020-01-31T19:38:48.612Z,"261km NNW of Marion Island, Prince Edward Islands",earthquake,11.7,1.8,0.046,46,reviewed,us,us

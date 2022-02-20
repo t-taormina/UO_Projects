@@ -1,0 +1,4 @@
+State, population, vaccines given, 1 dose given, 2 dose give
+California, 10000, 1000, 500, 250
+Oregon, 10000, 2000, 100, 500
+Washington, 10000, 100, 200, 200
